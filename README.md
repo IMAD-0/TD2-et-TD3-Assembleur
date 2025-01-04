@@ -25,10 +25,14 @@ END
 - **Simulation pas à pas**
 
 
-![1-1](images/1-1.jpg)
-![1-2](images/1-2.jpg)
-![1-3](images/1-3.jpg)
-![1-4](images/1-4.jpg)
+<img src="images/1-1.jpg" alt="1-1" />
+
+<img src="images/1-2.jpg" alt="1-2" />
+
+<img src="images/1-3.jpg" alt="1-3" />
+
+<img src="images/1-4.jpg" alt="1-4" />
+
 
 
 ### Exercice 2 :
@@ -53,10 +57,14 @@ END
 - **Simulation pas à pas**
 
 
-![2-1](images/2-1.jpg)
-![2-2](images/2-2.jpg)
-![2-3](images/2-3.jpg)
-![2-4](images/2-4.jpg)
+<img src="images/2-1.jpg" alt="2-1" />
+
+<img src="images/2-2.jpg" alt="2-2" />
+
+<img src="images/2-3.jpg" alt="2-3" />
+
+<img src="images/2-4.jpg" alt="2-4" />
+
 
 
 ### Exercice 3 :
@@ -94,8 +102,10 @@ END
 - **Simulation pas à pas**
 
 
-![4-1](images/4-1.jpg)
-![4-2](images/4-2.jpg)
+<img src="images/4-1.jpg" alt="4-1" />
+
+<img src="images/4-2.jpg" alt="4-2" />
+
 
 
 ## TD3
@@ -122,12 +132,18 @@ END
 - **Simulation pas à pas**
 
 
-![5-1](images/5-1.jpg)
-![5-2](images/5-2.jpg)
-![5-3](images/5-3.jpg)
-![5-4](images/5-4.jpg)
-![5-5](images/5-5.jpg)
-![5-6](images/5-6.jpg)
+<img src="images/5-1.jpg" alt="5-1" />
+
+<img src="images/5-2.jpg" alt="5-2" />
+
+<img src="images/5-3.jpg" alt="5-3" />
+
+<img src="images/5-4.jpg" alt="5-4" />
+
+<img src="images/5-5.jpg" alt="5-5" />
+
+<img src="images/5-6.jpg" alt="5-6" />
+
 
 
 
@@ -146,10 +162,14 @@ END
 - **Simulation pas à pas**
 
 
-![6-1](images/6-1.jpg)
-![6-2](images/6-2.jpg)
-![6-3](images/6-3.jpg)
-![6-4](images/6-4.jpg)
+<img src="images/6-1.jpg" alt="6-1" />
+
+<img src="images/6-2.jpg" alt="6-2" />
+
+<img src="images/6-3.jpg" alt="6-3" />
+
+<img src="images/6-4.jpg" alt="6-4" />
+
 
 
 
@@ -180,11 +200,16 @@ END
 - **Simulation pas à pas**
 
 
-![7-1](images/7-1.jpg)
-![7-2](images/7-2.jpg)
-![7-3](images/7-3.jpg)
-![7-4](images/7-4.jpg)
-![7-5](images/7-5.jpg)
+<img src="\2" alt="\1" />
+
+<img src="images/7-2.jpg" alt="7-2" />
+
+<img src="images/7-3.jpg" alt="7-3" />
+
+<img src="images/7-4.jpg" alt="7-4" />
+
+<img src="images/7-5.jpg" alt="7-5" />
+
 
 
 <!-- EX4 -->
@@ -212,8 +237,10 @@ END
 - **Simulation pas à pas**
 
 
-![8-1](images/8-1.jpg)
-![8-2](images/8-2.jpg)
+<img src="images/8-1.jpg" alt="8-1" />
+
+<img src="images/8-2.jpg" alt="8-2" />
+
 
 
 
