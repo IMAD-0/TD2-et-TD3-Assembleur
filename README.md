@@ -25,13 +25,13 @@ END
 - **Simulation pas à pas**
 
 
-<img src="images/1-1.jpg" alt="1-1" />
+<img width="160" height="280" src="images/1-1.jpg" alt="1-1" />
 
-<img src="images/1-2.jpg" alt="1-2" />
+<img width="160" height="280" src="images/1-2.jpg" alt="1-2" />
 
-<img src="images/1-3.jpg" alt="1-3" />
+<img width="160" height="280" src="images/1-3.jpg" alt="1-3" />
 
-<img src="images/1-4.jpg" alt="1-4" />
+<img width="160" height="280" src="images/1-4.jpg" alt="1-4" />
 
 
 
@@ -57,13 +57,13 @@ END
 - **Simulation pas à pas**
 
 
-<img src="images/2-1.jpg" alt="2-1" />
+<img width="160" height="280" src="images/2-1.jpg" alt="2-1" />
 
-<img src="images/2-2.jpg" alt="2-2" />
+<img width="160" height="280" src="images/2-2.jpg" alt="2-2" />
 
-<img src="images/2-3.jpg" alt="2-3" />
+<img width="160" height="280" src="images/2-3.jpg" alt="2-3" />
 
-<img src="images/2-4.jpg" alt="2-4" />
+<img width="160" height="280" src="images/2-4.jpg" alt="2-4" />
 
 
 
@@ -102,9 +102,9 @@ END
 - **Simulation pas à pas**
 
 
-<img src="images/4-1.jpg" alt="4-1" />
+<img width="160" height="280" src="images/4-1.jpg" alt="4-1" />
 
-<img src="images/4-2.jpg" alt="4-2" />
+<img width="160" height="280" src="images/4-2.jpg" alt="4-2" />
 
 
 
@@ -132,17 +132,17 @@ END
 - **Simulation pas à pas**
 
 
-<img src="images/5-1.jpg" alt="5-1" />
+<img width="160" height="280" src="images/5-1.jpg" alt="5-1" />
 
-<img src="images/5-2.jpg" alt="5-2" />
+<img width="160" height="280" src="images/5-2.jpg" alt="5-2" />
 
-<img src="images/5-3.jpg" alt="5-3" />
+<img width="160" height="280" src="images/5-3.jpg" alt="5-3" />
 
-<img src="images/5-4.jpg" alt="5-4" />
+<img width="160" height="280" src="images/5-4.jpg" alt="5-4" />
 
-<img src="images/5-5.jpg" alt="5-5" />
+<img width="160" height="280" src="images/5-5.jpg" alt="5-5" />
 
-<img src="images/5-6.jpg" alt="5-6" />
+<img width="160" height="280" src="images/5-6.jpg" alt="5-6" />
 
 
 
@@ -162,13 +162,13 @@ END
 - **Simulation pas à pas**
 
 
-<img src="images/6-1.jpg" alt="6-1" />
+<img width="160" height="280" src="images/6-1.jpg" alt="6-1" />
 
-<img src="images/6-2.jpg" alt="6-2" />
+<img width="160" height="280" src="images/6-2.jpg" alt="6-2" />
 
-<img src="images/6-3.jpg" alt="6-3" />
+<img width="160" height="280" src="images/6-3.jpg" alt="6-3" />
 
-<img src="images/6-4.jpg" alt="6-4" />
+<img width="160" height="280" src="images/6-4.jpg" alt="6-4" />
 
 
 
@@ -200,15 +200,15 @@ END
 - **Simulation pas à pas**
 
 
-<img src="\2" alt="\1" />
+<img width="160" height="280" src="\2" alt="\1" />
 
-<img src="images/7-2.jpg" alt="7-2" />
+<img width="160" height="280" src="images/7-2.jpg" alt="7-2" />
 
-<img src="images/7-3.jpg" alt="7-3" />
+<img width="160" height="280" src="images/7-3.jpg" alt="7-3" />
 
-<img src="images/7-4.jpg" alt="7-4" />
+<img width="160" height="280" src="images/7-4.jpg" alt="7-4" />
 
-<img src="images/7-5.jpg" alt="7-5" />
+<img width="160" height="280" src="images/7-5.jpg" alt="7-5" />
 
 
 
@@ -237,9 +237,9 @@ END
 - **Simulation pas à pas**
 
 
-<img src="images/8-1.jpg" alt="8-1" />
+<img width="160" height="280" src="images/8-1.jpg" alt="8-1" />
 
-<img src="images/8-2.jpg" alt="8-2" />
+<img width="160" height="280" src="images/8-2.jpg" alt="8-2" />
 
 
 
